@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Angular Component Library Template v1
+Open Template Hub - UI Library Template v1
 </h1>
 
 [![GitHubRepo](https://img.shields.io/badge/GitHub-Repository-24292e.svg?style=for-the-badge&logo=github)](https://github.com/open-template-hub/template)
