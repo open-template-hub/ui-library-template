@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - Angular Component Library Template v1
+Open Template Hub - UI Library Template Library Template v1
 </h1>
 
 [![Version](https://img.shields.io/npm/v/@open-template-hub/template?color=CB3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@open-template-hub/template)
