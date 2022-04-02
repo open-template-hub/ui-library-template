@@ -10,10 +10,10 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "git repository": "https://github.com/open-template-hub/template",
+  "git repository": "https://github.com/open-template-hub/ui-library-template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/open-template-hub/template.git"
+    "url": "https://github.com/open-template-hub/ui-library-template.git"
   },
   "keywords": [
     "common",
