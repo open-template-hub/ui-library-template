@@ -24,7 +24,7 @@ This library is a template to generate new angular component libraries.
 ### Package Installation
 
 ```sh
-npm install --save @open-template-hub/template
+npm install --save @open-template-hub/ui-library-template
 ```
 
 # Sponsors
