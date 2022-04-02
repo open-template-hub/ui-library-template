@@ -1,5 +1,5 @@
 {
-  "name": "@open-template-hub/template",
+  "name": "@open-template-hub/ui-library-template",
   "description": "This library is a template to generate new angular component libraries.",
   "version": "0.0.2",
   "license": "MIT",

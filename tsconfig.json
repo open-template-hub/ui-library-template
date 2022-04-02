@@ -8,9 +8,9 @@
     "strict": true,
     "noImplicitOverride": true,
     "paths": {
-      "template": [
-        "dist/template/template",
-        "dist/template"
+      "ui-library-template": [
+        "dist/ui-library-template/ui-library-template",
+        "dist/ui-library-template"
       ]
     },
     "noPropertyAccessFromIndexSignature": true,
