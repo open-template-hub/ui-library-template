@@ -8,13 +8,7 @@
 Open Template Hub - UI Library Template v1
 </h1>
 
-[![Version](https://img.shields.io/npm/v/@open-template-hub/ui-library-template?color=CB3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@open-template-hub/ui-library-template)
-[![Downloads](https://img.shields.io/npm/dt/@open-template-hub/ui-library-template?color=CB3837&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@open-template-hub/ui-library-template)
-[![License](https://img.shields.io/github/license/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/issues)
-[![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/pulls?q=is%3Apr+is%3Aclosed)
-[![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/commits/master)
-[![Release](https://img.shields.io/github/release/open-template-hub/ui-library-template?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/releases)
+[![GitHubRepo](https://img.shields.io/badge/GitHub-Repository-24292e.svg?style=for-the-badge&logo=github)](https://github.com/open-template-hub/ui-library-template)
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_ui-library-template)
 
 This library is a template to generate new angular component libraries.
