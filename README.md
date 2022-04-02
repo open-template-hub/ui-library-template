@@ -15,7 +15,7 @@ Open Template Hub - UI Library Template v1
 [![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/pulls?q=is%3Apr+is%3Aclosed)
 [![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/ui-library-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/commits/master)
 [![Release](https://img.shields.io/github/release/open-template-hub/ui-library-template?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/ui-library-template/releases)
-[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_template)
+[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_ui-library-template)
 
 This library is a template to generate new angular component libraries.
 
