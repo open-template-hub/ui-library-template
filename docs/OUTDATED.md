@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-Open Template Hub - UI Library Template v1
+Open Template Hub - UI Library Template v4
   <br/>
 (outdated packages)
 </h1>
