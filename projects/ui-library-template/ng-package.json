@@ -3,5 +3,8 @@
   "dest": "../../dist/ui-library-template",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "assets": [
+    "styles/util/util.scss"
+  ]
 }
